@@ -1,5 +1,5 @@
 ## 구조를 이해하고, Needs를 해결하는 사람.
-### Tool: 기술(Tech, PS, CS), 마인드셋
+### Tool: 이해력, 구현력(Tech, PS, CS), 창의력, 마인드셋
 
 - Tech Stack
 
@@ -15,18 +15,14 @@
   ![](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white)
   ![](https://img.shields.io/badge/Kafka-231F20.svg?&style=flat&logo=ApacheKafka&logoColor=white))
   <br><br>
-
   
-  Hobby: ![](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
+  ![](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
   ![](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)
-  
 <br>
-
-
+  
 - PS: ![](https://img.shields.io/badge/Java-orange.svg?&style=flat&logo=Gradle&logoColor=white)
   
-[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=eastlight82)](https://solved.ac/eastlight82/)
-<br><br>
+  [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=eastlight82)](https://solved.ac/eastlight82/)
 
 
 - CS
@@ -37,12 +33,10 @@
 
 <!--
 - Github Contribute
-  
+
 ![](https://github-readme-stats.vercel.app/api?username=eastlight82&show_icons=true&theme=cobalt)
--->
 
 
-<!--
 언어
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=eastlight82&exclude_repo=20242R0136COSE47402)
 
