@@ -1,5 +1,11 @@
 ## 구조를 이해하고, Needs를 해결하는 사람.
-### Tool: 이해력, 구현력(Tech, PS, CS), 창의력, 마인드셋
+#### Tool: Mindset-> 이해력, 구현력(Tech, PS, CS), 창의력
+
+- Mindset:
+  <br>완벽,영원x-> 회피x
+  <br>있는 그대로를 사랑하기 (자연,겸애)
+  <br>해결할 것: 그냥 하기, 즐기기
+  
 
 - Tech Stack
 
