@@ -16,7 +16,7 @@
   ![](https://img.shields.io/badge/Kafka-231F20.svg?&style=flat&logo=ApacheKafka&logoColor=white))
   <br><br>
   
-  ![](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
+  Polyglot: ![](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
   ![](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)
 <br>
   
