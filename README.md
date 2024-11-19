@@ -1,5 +1,5 @@
 ## 구조를 이해하고, Needs를 해결하는 사람.
-#### Tool: Mindset-> 이해력, 구현력(Tech, PS, CS: 활용), 창의력
+#### Tool: Mindset-> 이해력, 구현력(Tech, PS, CS: 적용), 창의력
 
 - Mindset:
   <br>이상(완벽,영원)x-> 실제 해결, 몰입하기
