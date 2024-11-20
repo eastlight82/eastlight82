@@ -3,7 +3,7 @@
 
 - Mindset:
   <br>Tool 실제 해결(일단->몰입: 무의식)
-  <br>Needs 가치관: 유긍감(중용,겸애- 사실)
+  <br>Needs 가치관: 성장(중용,겸애- 사실)
   
 
 - Tech Stack
