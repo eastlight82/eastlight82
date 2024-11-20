@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/Redis-FF4438.svg?&style=flat&logo=Redis&logoColor=white)
   
-  <br><br>
+<br>
   
   Modest: ![](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
   ![](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)
