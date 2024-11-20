@@ -1,9 +1,7 @@
 ### 구조를 알고, Needs를 해결하자.
 #### Tool: 이해력, 구현력(Tech, PS, CS: 사용)
 
-- Mindset: 상단견x:중도->실제 직시
-  <br>지혜: 마음:연기,유식->수행,겸애
-  <br>
+- Mindset: 실제 직시, 긍정
 
 - Tech Stack
 
