@@ -11,7 +11,7 @@
   (![](https://img.shields.io/badge/JPA-59666C.svg?&style=flat&logo=Hibernate&logoColor=white))
 ![](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/Redis-FF4438.svg?&style=flat&logo=Redis&logoColor=white) 
-<br>
+
 
   
   Modest: ![](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
