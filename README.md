@@ -2,7 +2,7 @@
 #### Tool: 이해력, 구현력(Tech, PS, CS: 사용)
 
 - Mindset: 상단견x:중도->실제 직시
-  
+  <br>
 
 - Tech Stack
 
