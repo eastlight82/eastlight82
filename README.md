@@ -2,8 +2,8 @@
 #### Tool: Mindset-> 이해력, 구현력(Tech, PS, CS: 사용), 창의력
 
 - Mindset:
-  <br>이상(완벽)x-> 실제 해결(시작->몰입)
-  <br>올바른 가치(중용,겸애-이완) 추구
+  <br>Tool: 실제 해결(시작->몰입) (완벽x)
+  <br>Needs: 가치, 감정(중용,겸애-이완)
   
 
 - Tech Stack
