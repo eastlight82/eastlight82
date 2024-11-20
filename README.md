@@ -30,7 +30,6 @@
   <br>OS(ca)
   <br>Net
   <br>DB
-  <br>Tech
 
 <!--
 - Github Contribute
