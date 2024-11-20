@@ -2,8 +2,9 @@
 #### Tool: 이해력, 구현력(Tech, PS, CS: 사용), 창의력
 
 - Mindset:
-  <br>Tool: 실제 해결(일단->몰입)
-  <br>Needs: 성장,중용(유긍감- 사실)
+  <br>Tool: 실제 해결(일단)
+  <br>Needs: 성장,중용(유긍감,겸애)
+  <br>몰입-이완, 사실
   
 
 - Tech Stack
