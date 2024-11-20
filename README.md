@@ -1,9 +1,9 @@
 ## 구조를 이해하고, Needs를 해결하는 사람.
 #### Tool: 이해력, 구현력(Tech, PS, CS: 사용), 창의력
 
-- Mindset:
-  <br>Tool: 실제 해결(일단->몰입: 무의식)
-  <br>Needs: 가치관: 유긍감(사실:중용,겸애)
+- Mindset: 사실
+  <br>Tool 실제 해결(일단->몰입: 무의식)
+  <br>Needs 가치관: 유긍감(중용,겸애)
   
 
 - Tech Stack
