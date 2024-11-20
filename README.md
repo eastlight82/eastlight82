@@ -9,8 +9,8 @@
   ![](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white)
   ![](https://img.shields.io/badge/SQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white)
   (![](https://img.shields.io/badge/JPA-59666C.svg?&style=flat&logo=Hibernate&logoColor=white))
-![](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/Redis-FF4438.svg?&style=flat&logo=Redis&logoColor=white) 
+![](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
 
 
   
