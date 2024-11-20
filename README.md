@@ -3,8 +3,8 @@
 
 - Mindset:
   <br>Tool:이상(완벽x)->실제 해결(그냥)
-  <br>Needs: 성장,중용(겸애,공,유긍감)
-  <br>몰입-이완, 사실
+  <br>지식,지혜->Needs
+  <br>몰입-이완
   
 
 - Tech Stack
