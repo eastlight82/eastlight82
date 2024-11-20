@@ -1,10 +1,8 @@
 ## 구조를 이해하고, Needs를 해결하는 사람.
 #### Tool: 이해력, 구현력(Tech, PS, CS: 사용), 창의력
 
-- Mindset:
-  <br>Tool:이상(완벽x)->실제 해결(그냥)
-  <br>지식,지혜->Needs
-  <br>몰입-이완
+- Mindset: 상단견x->실제 직시
+  공,유식/결단(적멸)
   
 
 - Tech Stack
