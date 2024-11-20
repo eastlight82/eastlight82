@@ -1,7 +1,5 @@
 ### 구조를 알고, Needs를 해결하자.
 #### Tool: 이해력, 구현력(Tech, PS, CS: 사용)
-
-- Mindset: 실제 해결(몰입-이완)
   
 - Tech Stack
 
