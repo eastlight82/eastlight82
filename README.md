@@ -2,8 +2,8 @@
 #### Tool: 이해력, 구현력(Tech, PS, CS: 사용), 창의력
 
 - Mindset:
-  <br>Tool 실제 해결(일단->몰입: 무의식)
-  <br>Needs 가치관: 성장(중용,겸애- 사실)
+  <br>Tool: 실제 해결(일단->몰입: 무의식)
+  <br>Needs: 성장(가치관:중용,겸애- 사실)
   
 
 - Tech Stack
