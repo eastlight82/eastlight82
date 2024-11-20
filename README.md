@@ -2,7 +2,7 @@
 #### Tool: Mindset-> 이해력, 구현력(Tech, PS, CS: 사용), 창의력
 
 - Mindset:
-  <br>Tool: 실제 해결(그냥->몰입)
+  <br>Tool: 실제 해결(일단->몰입)
   <br>Needs: 가치, 감정(중용,겸애-이완)
   
 
