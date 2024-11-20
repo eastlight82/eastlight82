@@ -3,7 +3,7 @@
 
 - Mindset:
   <br>Tool: 실제 해결(일단->몰입: 무의식), 가치
-  <br>Needs: 가치, 감정(중용,겸애-이완)
+  <br>Needs: 가치, 유긍인감(중용,겸애-이완)
   
 
 - Tech Stack
