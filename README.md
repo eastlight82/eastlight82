@@ -5,21 +5,19 @@
 
 - Tech Stack
 
-  ~24.12: ![](https://img.shields.io/badge/Java-orange.svg?&style=flat&logo=Gradle&logoColor=white)
+  ~25.1: ![](https://img.shields.io/badge/Java-orange.svg?&style=flat&logo=Gradle&logoColor=white)
   ![](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white)
   ![](https://img.shields.io/badge/SQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white)
   (![](https://img.shields.io/badge/JPA-59666C.svg?&style=flat&logo=Hibernate&logoColor=white))
-
-
-  ~25.2: ![](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
-  ![](https://img.shields.io/badge/Redis-FF4438.svg?&style=flat&logo=Redis&logoColor=white)
-  (![](https://img.shields.io/badge/aws-232F3E.svg?&style=flat&logo=AmazonWebServices&logoColor=white)
-  ![](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white)
-  ![](https://img.shields.io/badge/Kafka-231F20.svg?&style=flat&logo=ApacheKafka&logoColor=white))
+![](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
+  
   <br><br>
   
   Modest: ![](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
-  ![](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)
+  ![](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)![](https://img.shields.io/badge/Redis-FF4438.svg?&style=flat&logo=Redis&logoColor=white)
+  ![](https://img.shields.io/badge/aws-232F3E.svg?&style=flat&logo=AmazonWebServices&logoColor=white)
+  ![](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white)
+  ![](https://img.shields.io/badge/Kafka-231F20.svg?&style=flat&logo=ApacheKafka&logoColor=white)
   
   
 - PS: ![](https://img.shields.io/badge/Java-orange.svg?&style=flat&logo=Gradle&logoColor=white)
