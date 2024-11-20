@@ -20,7 +20,7 @@
   
   Modest: ![](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
   ![](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)
-<br>
+  
   
 - PS: ![](https://img.shields.io/badge/Java-orange.svg?&style=flat&logo=Gradle&logoColor=white)
   
