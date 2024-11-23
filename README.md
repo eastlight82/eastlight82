@@ -2,7 +2,6 @@
 #### 배경지식(지혜,경험), 이해력, 구현력(적용)
 일 최소 5시간 공부
 
-  
 - Tech Stack
 
   ~25.1: ![](https://img.shields.io/badge/Java-orange.svg?&style=flat&logo=Gradle&logoColor=white)
