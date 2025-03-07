@@ -3,7 +3,7 @@
 
 - Tech Stack
 
-  ~25.1: ![](https://img.shields.io/badge/Java-orange.svg?&style=flat&logo=Gradle&logoColor=white)
+  ~25.3: ![](https://img.shields.io/badge/Java-orange.svg?&style=flat&logo=Gradle&logoColor=white)
   ![](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white)
   ![](https://img.shields.io/badge/SQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white)
   (![](https://img.shields.io/badge/JPA-59666C.svg?&style=flat&logo=Hibernate&logoColor=white)
