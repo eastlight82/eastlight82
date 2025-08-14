@@ -27,10 +27,10 @@
   [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=eastlight82)](https://solved.ac/eastlight82/)
 
 
-- CS
+<!-- - CS
   <br>OS(ca)
   <br>Net
-  <br>DB
+  <br>DB -->
 
 <!--
 - Github Contribute
