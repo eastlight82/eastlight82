@@ -24,7 +24,11 @@
   
   [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=eastlight82)](https://solved.ac/eastlight82/)
 
-
+-Carrer
+21.3 Korea.Univ CSE
+24.1~2 QuadMiner FE
+25.3~4 nextCon BE
+25.8~9 uniCon_AND BE, 2nd prize in contest
 
 
 <!--
