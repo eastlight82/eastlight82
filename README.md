@@ -27,7 +27,7 @@
 
   21.3~ Korea.Univ CSE
 
-  24.1~2 QuadMiner FE
+  24.1~2 QuadMiner Intern_FE
 
   25.3~4 nextCon BE
 
