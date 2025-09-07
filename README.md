@@ -26,7 +26,7 @@
 
 - Carrer
 
-21.3 Korea.Univ CSE
+21.3~ Korea.Univ CSE
 
 24.1~2 QuadMiner FE
 
