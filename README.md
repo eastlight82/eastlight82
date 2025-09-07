@@ -9,7 +9,6 @@
 (![](https://img.shields.io/badge/JPA-59666C.svg?&style=flat&logo=Hibernate&logoColor=white)
 ![](https://img.shields.io/badge/Redis-FF4438.svg?&style=flat&logo=Redis&logoColor=white))
 ![](https://img.shields.io/badge/aws-232F3E.svg?&style=flat&logo=AmazonWebServices&logoColor=white)
-
 ![](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
   ![](https://img.shields.io/badge/Kafka-231F20.svg?&style=flat&logo=ApacheKafka&logoColor=white)
 
