@@ -24,7 +24,7 @@
   
   [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=eastlight82)](https://solved.ac/eastlight82/)
 
--Carrer
+- Carrer
 21.3 Korea.Univ CSE
 
 24.1~2 QuadMiner FE
